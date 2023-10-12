@@ -100,11 +100,11 @@ print("Ansonsten 'Fehler'")
 print("\nAufgabe 7: ")
 print("Erstelle eine Funktion 'formatierteAusgabe'") 
 print("Funktion erhält zwei Übergabeparameter die ausgegeben werden sollen")
-print("Orientieren Sie sich an der beispielhaften Ausgabe und Aufruf")
+print("Orientieren Sie sich am beispielhaften Aufruf")
 level = 40
 nickname = "Mat"
-# print(formatierteAusgabe("Nickname", nickname))
-# print(formatierteAusgabe("Level", level))
+# formatierteAusgabe("Nickname", nickname)
+# formatierteAusgabe("Level", level)
 ### +++ Nickname +++  
 ### Mat
 ### +++ Level +++  
