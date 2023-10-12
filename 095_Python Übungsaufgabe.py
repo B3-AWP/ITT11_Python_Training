@@ -57,7 +57,7 @@ print("Durchlaufen der Liste einkaufen mir Foreach Schleife")
 
 ## Aufgabe 3b
 print("\nAufgabe 3b: ")
-print("Durchlaufen der Liste einkaufen mir For Schleife")
+print("Durchlaufen der Liste einkaufen mir einer zählergesteuerten Schleife")
 
 
 ## Aufgabe 3c
