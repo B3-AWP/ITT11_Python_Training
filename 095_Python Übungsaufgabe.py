@@ -52,17 +52,17 @@ print("Löschen des Eintrags '5' aus der Liste 'einkaufen'")
 # Aufgabe 3
 ## Aufgabe 3a
 print("\nAufgabe 3a: ")
-print("Durchlaufen der Liste einkaufen mir Foreach Schleife")
+print("Durchlaufen der Liste einkaufen mit Foreach Schleife")
 
 
 ## Aufgabe 3b
 print("\nAufgabe 3b: ")
-print("Durchlaufen der Liste einkaufen mir einer zählergesteuerten Schleife")
+print("Durchlaufen der Liste einkaufen mit einer zählergesteuerten Schleife")
 
 
 ## Aufgabe 3c
 print("\nAufgabe 3c: ")
-print("Durchlaufen der Liste einkaufen mir While Schleife")
+print("Durchlaufen der Liste einkaufen mit While Schleife")
 
 
 # Aufgabe 4
