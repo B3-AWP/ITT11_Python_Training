@@ -9,7 +9,7 @@ os.system('clear' if os.name == 'posix' else 'cls')
 # Aufgabe 1: 
 print("\nAufgabe 1:")
 print("Analysieren Sie das folgende Verhalten:")
-print("Welche Schlussfolgerung ziehen Sie aus dem Verhalten?")
+print("Welche Schlussfolgerung ziehen Sie aus dem Verhalten? Halte das Ergebnis im print Befehl Zeile 20 fest.")
 text1 = "Text"
 print("Text1 ist vom Datentyp:", type(text1), "und hat den Inhalt", text1)
 text1 = 2
@@ -17,6 +17,7 @@ print("Text1 ist vom Datentyp:", type(text1), "und hat den Inhalt", text1)
 text1 = True
 print("Text1 ist vom Datentyp:", type(text1), "und hat den Inhalt", text1)
 
+print("Meine Antwort: "
 
 # Aufgabe 2
 #Folgende Liste ist gegeben 
