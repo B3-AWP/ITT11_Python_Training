@@ -17,7 +17,7 @@ print("Text1 ist vom Datentyp:", type(text1), "und hat den Inhalt", text1)
 text1 = True
 print("Text1 ist vom Datentyp:", type(text1), "und hat den Inhalt", text1)
 
-print("Meine Antwort: "
+print("Meine Antwort: ")
 
 # Aufgabe 2
 #Folgende Liste ist gegeben 
